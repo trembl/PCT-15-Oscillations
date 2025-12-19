@@ -4,6 +4,10 @@ Documentation, reverse engineering and artistic use of the Sony PCT-15.
 
 ### Documentation
 
+- [x] Instruction Manuals
+- [ ] Box
+- [ ] Details of PCT-15
+- [ ] Teardown?
 
 ### Output Tests
 
