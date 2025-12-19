@@ -1,4 +1,4 @@
-# PCT-15 Osciallations
+# PCT-15 Oscillations
 
 Documentation, reverse engineering and artistic use of the Sony PCT-15.
 
